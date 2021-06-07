@@ -4,11 +4,17 @@ body {
   
 li{
     list-style: none;
+    float: left;
 }
   
 .header {
     background-color: #f7f2b4;
     height: 90px;
+}
+
+.header-logo {
+    font-size: 36px;
+    float: left;
 }
   
 .main {
