@@ -1,9 +1,13 @@
 body {
-    font-family: "Avenir Next";
+    font-family: cursive;
 }
   
-li{
+li {
     list-style: none;
+}
+
+a {
+    text-decoration: none;
 }
 
 
@@ -20,8 +24,10 @@ li{
 }
 
 .header-list li{
+    font-size: larger;
     float: left;
     padding: 33px 20px;
+    /* font-family: ; */
 }
  
 
@@ -55,7 +61,6 @@ li{
 }
 
 .contents-item {
-    float: left;
     margin-right: 40px;
 }
 
