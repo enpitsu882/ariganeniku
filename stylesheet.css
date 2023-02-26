@@ -71,9 +71,14 @@ a {
     font-size: 24px;
 }
 
-.contents-item img {
+.book img {
     width: 148px;
     height: 210px;
+}
+
+.icon img {
+    width: 148px;
+    height: 148px;
 }
 
 input, textarea {
