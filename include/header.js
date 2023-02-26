@@ -23,7 +23,7 @@ function readHeader() {
         'Others'
     ];
     const hrefValueList = [
-        '',
+        'profile.html',
         'works.html',
         'others.html'
     ];
