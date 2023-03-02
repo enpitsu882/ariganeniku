@@ -20,12 +20,10 @@ function readHeader() {
     const contentsList = [
         'Profile',
         'Works',
-        'Others'
     ];
     const hrefValueList = [
         'profile.html',
         'works.html',
-        'others.html'
     ];
     const anchorList = [];
     const listItem = [];
