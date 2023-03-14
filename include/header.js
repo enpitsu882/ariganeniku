@@ -18,10 +18,12 @@ function readHeader() {
     headerListDivided.setAttribute('class', 'header-list');
     const unorderedList = document.createElement('ul');
     const contentsList = [
+        'Top',
         'Profile',
         'Works',
     ];
     const hrefValueList = [
+        'index.html',
         'profile.html',
         'works.html',
     ];
