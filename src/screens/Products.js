@@ -6,7 +6,7 @@ const Products = () => {
         <div class="row g-5 py-5 row-cols-1 row-cols-lg-2">
           <div class="col d-flex align-items-start">
             <div class="img-cover bg-light text-dark flex-shrink-0 me-3">
-              <img src="hifu_girls.jpg" alt="rakko_icon" height="300px" />
+              <img src="./hifu_girls.jpg" alt="rakko_icon" height="300px" />
             </div>
             <div>
               <h2>秘封ガール</h2>
