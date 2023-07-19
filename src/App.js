@@ -13,13 +13,12 @@ import Blog from './screens/Blog';
 
 const App = () => {
   return (
-    <BrowserRouter basename={process.env.PUBLIC_URL}>
+    <BrowserRouter basename='ariganeniku'>
       <div className="App">
         <Header />
 
         <Routes>
           <Route path='/' element={<Top />} />
-          <Route path='/ariganeniku' element={<Top />} />
           <Route path='/profile' element={<Profile />} />
           <Route path='/products' element={<Products />} />
           <Route path='/blog' element={<Blog />} />
